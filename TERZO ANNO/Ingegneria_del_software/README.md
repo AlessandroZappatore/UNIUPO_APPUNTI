@@ -1,6 +1,9 @@
 ## 📚 Capitoli da Completare
 
 ### 📖 Teoria:
+- ~~📘 **Introduzione**~~
+- ~~📑 **Specifica**~~
+- ~~📝 **Progettazione**~~
 - 🔧 **Collaudo**
 - 🛠️ **Manutenzione**
 - ⚙️ **Gestione**
@@ -8,6 +11,8 @@
 - 🚀 **Modelli agili**
 
 ### 🗂️ UML:
+- ~~🔍 **Deduzione**~~
+- ~~🧩 **Analisi**~~
 - 🏗️ **Strutturazione**
 - 🔄 **Comportamento**
 - 💻 **Codice**
