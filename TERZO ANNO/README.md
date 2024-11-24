@@ -5,4 +5,4 @@
 - **Ingegneria del Software**
 - **Fondamenti Linguaggi e Traduttori**
 
-##📖 Appunti completi
+## 📖 Appunti completi
