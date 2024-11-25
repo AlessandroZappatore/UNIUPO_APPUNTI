@@ -5,3 +5,4 @@
 - **Algoritmi 2**
 - **Reti**
 - **Sistemi operativi 2**
+- **Basi di dati**
