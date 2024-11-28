@@ -36,6 +36,6 @@ Il corso di Programmazione 2 approfondisce i seguenti argomenti teorici:
 
 ---
 
-### 📜 Esercizi:  
+### </> Esercizi:  
 Gli esercizi pratici del corso, che complementano la parte teorica, sono disponibili nel repository degli esercizi:  
 - [Esercizi di Programmazione 2](https://github.com/AlessandroZappatore/UNIUPO_PROGRAMMAZIONE_2)
