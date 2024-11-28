@@ -40,4 +40,4 @@ Il corso di Base di Dati si articola nei seguenti argomenti principali:
 
 ### 📜 Esercizi di Laboratorio:  
 Gli esercizi pratici che accompagnano la parte teorica del corso sono disponibili nel repository di laboratorio:  
-- [Esercizi di Base di Dati - Laboratorio](https://github.com/AlessandroZappatore/UNIUPO_BASE_DI_DATI)
+- [Esercizi di Base di Dati - Laboratorio](https://github.com/AlessandroZappatore/UNIUPO_BASI_DI_DATI)
