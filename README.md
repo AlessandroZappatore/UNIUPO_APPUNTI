@@ -32,3 +32,9 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 
 ### 📅 **Terzo Anno**  
 *(Aggiornerò questa lista appena finisco gli appunti dei corsi in svolgimento!)*  
+
+---
+
+**Nota Importante:**  
+Per evitare problematiche relative al copyright, tutte le immagini presenti nelle slide dei corsi sono state rimosse dai file di appunti. Le stesse immagini possono essere consultate direttamente nelle slide originali dei corsi a cui i file fanno riferimento.
+
