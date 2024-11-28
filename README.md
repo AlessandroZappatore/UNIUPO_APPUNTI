@@ -29,7 +29,6 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 2. 📊 **Algoritmi 2**  
 3. 🗃️ **Basi di Dati**  
 4. 🌐 **Reti**  
-5. ⚙️ **Sistemi Operativi 2**  
 
 ### 📅 **Terzo Anno**  
 *(Aggiornerò questa lista appena finisco gli appunti dei corsi in svolgimento!)*  
