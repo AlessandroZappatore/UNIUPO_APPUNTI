@@ -1,7 +1,7 @@
 ## 📚 Capitoli da Completare
 - ~~🔐 **Cybersecurity Essentials**~~
 - ~~🔑 **Crittografia**~~
-- 📜 **Certificati**
+- ~~📜 **Certificati**~~
 - ~~🌐 **Attacchi IP**~~
 - ~~🌍 **VPN**~~
 - ~~🔥 **Firewall ed IDS**~~
