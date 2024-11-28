@@ -7,6 +7,8 @@ Questa repository raccoglie la **teoria** trattata nel corso di **Architettura 2
 ### 📂 Contenuto:  
 - **Teoria**: Descrizione approfondita degli argomenti trattati durante il corso.
 
+---
+
 ### 📘 Programma del Corso:
 Il programma del corso include i seguenti temi:
 
