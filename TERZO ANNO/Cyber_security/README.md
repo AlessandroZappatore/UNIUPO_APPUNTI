@@ -6,5 +6,5 @@
 - ~~🌍 **VPN**~~
 - ~~🔥 **Firewall ed IDS**~~
 - ~~🔒 **Access Control ed Audit**~~
-- 🔐 **Autenticazione**
+- ~~🔐 **Autenticazione**~~
 - 🌐 **Sicurezza delle applicazioni di rete**
