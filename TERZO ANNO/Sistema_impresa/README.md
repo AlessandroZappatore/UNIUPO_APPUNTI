@@ -4,7 +4,7 @@
 - ~~📈 **Marketing**~~
 - ~~🏭 **Produzione & Logistica**~~
 - ~~🔬 **Ricerca & Sviluppo**~~
-- 👥 **Organizzazione & Risorse Umane**
+- ~~👥 **Organizzazione & Risorse Umane**~~
 - 💼 **Finanza & Amministrazione**
 - 🖥️ **Sistemi Informativi**
 - 📊 **Pianificazione, Programmazione e Controllo**
