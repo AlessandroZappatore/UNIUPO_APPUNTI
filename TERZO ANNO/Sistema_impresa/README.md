@@ -5,7 +5,7 @@
 - ~~🏭 **Produzione & Logistica**~~
 - ~~🔬 **Ricerca & Sviluppo**~~
 - ~~👥 **Organizzazione & Risorse Umane**~~
-- 💼 **Finanza & Amministrazione**
+- ~~💼 **Finanza & Amministrazione**~~
 - 🖥️ **Sistemi Informativi**
 - 📊 **Pianificazione, Programmazione e Controllo**
 - 💡 **Sistemi e strumenti di produzione delle informazioni economico-finanziarie**
