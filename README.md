@@ -10,10 +10,9 @@ Appunti **teorici** e **pratici** che ho utilizzato per superare gli esami della
 Ecco i corsi per cui sto attualmente lavorando agli appunti:  
 
 1. 🏢 **Sistema Impresa**  
-2. 🔒 **Cyber Security**  
-3. 🌐 **PISSIR** (Progettazione e Implementazione di Sistemi Informatici e Reti)  
-4. 🛠️ **Ingegneria del Software**  
-5. 📜 **Fondamenti Linguaggi e Traduttori**  
+2. 🌐 **PISSIR** (Progettazione e Implementazione di Sistemi Informatici e Reti)  
+3. 🛠️ **Ingegneria del Software**  
+4. 📜 **Fondamenti Linguaggi e Traduttori**  
 
 ---
 
