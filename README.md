@@ -31,6 +31,7 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 4. 🌐 **Reti**  
 
 ### 📅 **Terzo Anno**  
+1. 🛡️ **Cybersecurity**
 *(Aggiornerò questa lista appena finisco gli appunti dei corsi in svolgimento!)*  
 
 ---
