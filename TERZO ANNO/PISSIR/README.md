@@ -1,6 +1,6 @@
 ## 📚 Capitoli da Completare
 - ~~🌐 **Data link layer**~~
-- 🔌 **Cenni livello fisico**
+- ~~🔌 **Cenni livello fisico**~~
 - 📡 **Wireless Network**
 - 🎥 **Multimedia Networking**
 - 🖥️ **Zeroconf**
