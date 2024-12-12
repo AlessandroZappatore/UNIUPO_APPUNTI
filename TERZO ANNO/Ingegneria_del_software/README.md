@@ -4,8 +4,8 @@
 - ~~📘 **Introduzione**~~
 - ~~📑 **Specifica**~~
 - ~~📝 **Progettazione**~~
-- 🔧 **Collaudo**
-- 🛠️ **Manutenzione**
+- ~~🔧 **Collaudo**~~
+- ~~🛠️ **Manutenzione**~~
 - ⚙️ **Gestione**
 - 📊 **Modelli di processo**
 - 🚀 **Modelli agili**
