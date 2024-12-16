@@ -12,7 +12,7 @@
 
 ### 🗂️ UML:
 - ~~🔍 **Deduzione**~~
-- ~~🧩 **Analisi**~~
+- 🧩 **Analisi**
 - 🏗️ **Strutturazione**
 - 🔄 **Comportamento**
 - 💻 **Codice**
