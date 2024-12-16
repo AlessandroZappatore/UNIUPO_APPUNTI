@@ -6,7 +6,7 @@
 - ~~📝 **Progettazione**~~
 - ~~🔧 **Collaudo**~~
 - ~~🛠️ **Manutenzione**~~
-- ⚙️ **Gestione**
+- ~~⚙️ **Gestione**~~
 - 📊 **Modelli di processo**
 - 🚀 **Modelli agili**
 
