@@ -7,7 +7,7 @@
 - ~~🔧 **Collaudo**~~
 - ~~🛠️ **Manutenzione**~~
 - ~~⚙️ **Gestione**~~
-- 📊 **Modelli di processo**
+- ~~📊 **Modelli di processo**~~
 - 🚀 **Modelli agili**
 
 ### 🗂️ UML:
