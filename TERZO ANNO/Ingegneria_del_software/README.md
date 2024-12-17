@@ -8,14 +8,14 @@
 - ~~🛠️ **Manutenzione**~~
 - ~~⚙️ **Gestione**~~
 - ~~📊 **Modelli di processo**~~
-- 🚀 **Modelli agili**
+- ~~🚀 **Modelli agili**~~
 
 ### 🗂️ UML:
 - ~~🔍 **Deduzione**~~
-- 🧩 **Analisi**
-- 🏗️ **Strutturazione**
-- 🔄 **Comportamento**
-- 💻 **Codice**
+- ~~🧩 **Analisi**~~
+- ~~🏗️ **Strutturazione**~~
+- ~~🔄 **Comportamento**~~
+- ~~💻 **Codice**~~
 
 ### 🔑 Pattern:
 - 🏗️ **Creazionali**
