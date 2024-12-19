@@ -1,6 +1,6 @@
 ## 📚 Capitoli da Completare
 
-### 📖 Teoria:
+### ~~📖 Teoria:~~
 - ~~📘 **Introduzione**~~
 - ~~📑 **Specifica**~~
 - ~~📝 **Progettazione**~~
@@ -10,17 +10,17 @@
 - ~~📊 **Modelli di processo**~~
 - ~~🚀 **Modelli agili**~~
 
-### 🗂️ UML:
+### ~~🗂️ UML:~~
 - ~~🔍 **Deduzione**~~
 - ~~🧩 **Analisi**~~
 - ~~🏗️ **Strutturazione**~~
 - ~~🔄 **Comportamento**~~
 - ~~💻 **Codice**~~
 
-### 🔑 Pattern:
-- 🏗️ **Creazionali**
-- 🏛️ **Strutturali**
-- 🎭 **Comportamentali**
+### ~~🔑 Pattern:~~
+- ~~🏗️ **Creazionali**~~
+- ~~🏛️ **Strutturali**~~
+- ~~🎭 **Comportamentali**~~
 
 ### 🛠️ Strumenti:
 - 🌱 **Git**
