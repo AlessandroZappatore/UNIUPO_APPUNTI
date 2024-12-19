@@ -11,7 +11,6 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 
 1. 🏢 **Sistema Impresa**  
 2. 🌐 **PISSIR** (Progettazione e Implementazione di Sistemi Informatici e Reti)  
-3. 🛠️ **Ingegneria del Software**  
 4. 📜 **Fondamenti Linguaggi e Traduttori**  
 
 ---
@@ -31,6 +30,7 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 
 ### 📅 **Terzo Anno**  
 1. 🛡️ **Cybersecurity**
+2. 🛠️ **Ingegneria del Software**  
    
 *(Aggiornerò questa lista appena finisco gli appunti dei corsi in svolgimento!)*  
 
