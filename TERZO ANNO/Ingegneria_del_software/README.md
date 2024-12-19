@@ -22,9 +22,9 @@
 - ~~🏛️ **Strutturali**~~
 - ~~🎭 **Comportamentali**~~
 
-### 🛠️ Strumenti:
-- 🌱 **Git**
-- 🖥️ **Swing**
-- 🗄️ **SQLite**
-- ⚡ **Gradle**
-- 🌐 **RMI**
+### ~~🛠️ Strumenti:~~
+- ~~🌱 **Git**~~
+- ~~🖥️ **Swing**~~
+- ~~🗄️ **SQLite**~~
+- ~~⚡ **Gradle**~~
+- ~~🌐 **RMI**~~
