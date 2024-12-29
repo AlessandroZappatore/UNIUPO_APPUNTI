@@ -2,4 +2,4 @@
 - ~~🌐 **Data link layer**~~
 - ~~🔌 **Cenni livello fisico**~~
 - ~~📡 **Wireless Network**~~
-- 🏗️ **Architettura a microservizi**
+- ~~🏗️ **Architettura a microservizi**~~
