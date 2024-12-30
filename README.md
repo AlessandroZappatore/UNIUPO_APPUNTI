@@ -9,8 +9,7 @@ Appunti **teorici** e **pratici** che ho utilizzato per superare gli esami della
 ## 🚧 **Appunti in Svolgimento**  
 Ecco i corsi per cui sto attualmente lavorando agli appunti:  
 
-1. 🏢 **Sistema Impresa**
-2. 📜 **Fondamenti Linguaggi e Traduttori**  
+1. 📜 **Fondamenti Linguaggi e Traduttori**  
 
 ---
 
@@ -30,7 +29,8 @@ Ecco i corsi per cui sto attualmente lavorando agli appunti:
 ### 📅 **Terzo Anno**  
 1. 🛡️ **Cybersecurity**
 2. 🛠️ **Ingegneria del Software**
-3. 🌐 **PISSIR** (Progettazione e Implementazione di Sistemi Informatici e Reti)  
+3. 🌐 **PISSIR** (Progettazione e Implementazione di Sistemi Informatici e Reti)
+4. 🏢 **Sistema Impresa**
 
 *(Aggiornerò questa lista appena finisco gli appunti dei corsi in svolgimento!)*  
 
