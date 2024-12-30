@@ -6,4 +6,4 @@
 - ~~🔬 **Ricerca & Sviluppo**~~
 - ~~👥 **Organizzazione & Risorse Umane**~~
 - ~~💼 **Finanza & Amministrazione**~~
-- 📊 **Pianificazione, Programmazione e Controllo**
+- ~~📊 **Pianificazione, Programmazione e Controllo**~~
