@@ -5,8 +5,8 @@ Anno accademico 2024/25 presso l'Università del Piemonte Orientale.
 Questa repository raccoglie la **teoria** trattata nel corso di **Ingegneria del Software**, approfondendo le metodologie, i modelli e le tecniche utilizzate per lo sviluppo e la gestione del software.
 
 ### 📂 Contenuto:  
-- **Teoria**: Trascrizione delle slide presenti sul Dir per consentire uno studio più facile.  
--**Suggerimenti**: Ho aggiunto qualche spiegazione dello svolgimento dell'esame orale con qualche consiglio.
+- **Teoria**: Trascrizione delle slide presenti sul Dir per consentire uno studio più facile.
+- **Suggerimenti**: Ho aggiunto qualche spiegazione dello svolgimento dell'esame orale con qualche consiglio.
 ---
 
 ### 📘 Programma del Corso:  
