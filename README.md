@@ -8,7 +8,7 @@ Appunti **teorici** e **pratici** che ho utilizzato per superare gli esami della
 
 ## 🚧 **Appunti in Svolgimento**  
 Ecco i corsi per cui sto attualmente lavorando agli appunti:  
-
+1. 📊 **Calcolo delle probabilità e statistica**
 ---
 
 ## ✅ **Appunti Finiti**  
