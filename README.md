@@ -1,6 +1,6 @@
 # 📚 **UNIUPO Appunti**  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AlessandroZappatore_UNIUPO_APPUNTI&label=Visite&color=green)
+![Visitor Count](https://komarev.com/ghpvc/?username=AlessandroZappatore&label=Visite&color=green)
 
 Appunti **teorici** e **pratici** che ho utilizzato per superare gli esami della laurea triennale in informatica presso l'**Università del Piemonte Orientale**. 📘🎓
 
