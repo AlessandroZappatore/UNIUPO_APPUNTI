@@ -1,5 +1,4 @@
 ## 📚 Appunti in svolgimento
-- **Calcolo delle probabilità e statistica**
 
 ## 📖 Appunti completi
 - **Cyber Security**
@@ -7,3 +6,4 @@
 - **PISSIR**
 - **Sistema Impresa**
 - **Fondamenti Linguaggi e Traduttori**
+- **Calcolo delle probabilità e statistica**
