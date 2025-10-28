@@ -25,5 +25,4 @@ Appunti **teorici** e **pratici** che ho utilizzato per superare gli esami della
 
 ---
 
-⚠️ **Nota Importante:**  
-Per evitare problematiche relative al copyright, tutte le immagini presenti nelle slide dei corsi sono state rimosse dai file di appunti. Le stesse immagini possono essere consultate direttamente nelle slide originali dei corsi a cui i file fanno riferimento.
+Per qualsiasi problema con gli appunti non esitate a contattarmi
